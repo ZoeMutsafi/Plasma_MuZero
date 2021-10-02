@@ -1,0 +1,6 @@
+numpy
+tensorboard
+gym
+ray
+seaborn
+nevergrad
